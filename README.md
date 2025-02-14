@@ -7,7 +7,6 @@ Alur Fitur Login:
 3. Menampilkan halaman beranda.
 
 
-==
 daftar-biodata-siswa
 ==
 Daftar biodata siswa Dicoding Academy
